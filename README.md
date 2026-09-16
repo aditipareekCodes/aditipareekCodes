@@ -144,22 +144,6 @@ Because apparently engineering coursework wasn't enough.
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=aditipareekCodes&show_icons=true&hide_border=true"
-    height="165"
-  />
-  
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditipareekCodes&layout=compact&hide_border=true"
-    height="165"
-  />
-</p>
-
----
-
 ## 🎯 Current Mission
 
 ```text
